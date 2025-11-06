@@ -1,4 +1,5 @@
-# Hybrid AI RAG Agent (n8n + Gemini + SQL + LightRAG)  [**Experience the Demo**](https://phenomenal-ganache-e00ad6.netlify.app/)
+# Hybrid AI RAG Agent (n8n + Gemini + SQL + LightRAG) 
+[**Experience the Demo**](https://phenomenal-ganache-e00ad6.netlify.app/)
 
 This project is a complete, end-to-end intelligent AI agent built to solve a critical business problem: **how to answer questions from *all* of an organization's data, not just its documents.**
 
